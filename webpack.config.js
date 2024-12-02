@@ -10,7 +10,7 @@ module.exports = {
     port: 3002,
   },
   output: {
-    publicPath: "auto",
+    publicPath: "https://shoaib-mulla.github.io/mfe2",
   },
   module: {
     rules: [
